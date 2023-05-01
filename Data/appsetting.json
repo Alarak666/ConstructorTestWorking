@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=DESKTOP-DN31MTS;Initial Catalog=ConstructorDB;Trusted_Connection=True;TrustServerCertificate=true;TrustServerCertificate=true;"
+  }
+}

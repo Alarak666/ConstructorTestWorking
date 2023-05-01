@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Test xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>c2e3c31f-575e-4d60-8933-95f9c9e0cd17</id>
+  <Author>Admin</Author>
+  <Title>фіп</Title>
+  <InfoTestTaker>фіп</InfoTestTaker>
+  <TestName />
+  <CreatedName />
+  <Description>пфі</Description>
+  <MaxPoint>20</MaxPoint>
+  <CountQuestion>2</CountQuestion>
+  <Percent>10</Percent>
+  <listTests>
+    <ListTest>
+      <Question>фпіпіф</Question>
+      <Answers>
+        <string>фпі</string>
+        <string>іфп</string>
+      </Answers>
+      <CorectAnswers>
+        <string>фпі</string>
+      </CorectAnswers>
+      <Point>10</Point>
+    </ListTest>
+    <ListTest>
+      <Question>пфііп</Question>
+      <Answers>
+        <string>фіп</string>
+      </Answers>
+      <CorectAnswers>
+        <string>фіп</string>
+      </CorectAnswers>
+      <Point>10</Point>
+    </ListTest>
+  </listTests>
+</Test>

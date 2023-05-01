@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Test xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>1db84902-ff61-460b-a7aa-f9d182692e3d</id>
+  <Author>Admin</Author>
+  <Title>Тест</Title>
+  <InfoTestTaker>Тест</InfoTestTaker>
+  <TestName />
+  <CreatedName />
+  <Description>Тест</Description>
+  <MaxPoint>2</MaxPoint>
+  <CountQuestion>2</CountQuestion>
+  <Percent>50</Percent>
+  <listTests>
+    <ListTest>
+      <Question>Столиця України</Question>
+      <Answers>
+        <string>Україна</string>
+        <string>Київ</string>
+        <string>Херсон</string>
+      </Answers>
+      <CorectAnswers>
+        <string>Київ</string>
+      </CorectAnswers>
+      <Point>1</Point>
+    </ListTest>
+    <ListTest>
+      <Question>Ялта</Question>
+      <Answers>
+        <string>Остров</string>
+        <string>Город</string>
+        <string>Мелитополь</string>
+      </Answers>
+      <CorectAnswers>
+        <string>Город</string>
+      </CorectAnswers>
+      <Point>1</Point>
+    </ListTest>
+  </listTests>
+</Test>

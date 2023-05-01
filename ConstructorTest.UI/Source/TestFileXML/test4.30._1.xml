@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Test xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>2b91ab32-f012-4f10-852a-d0d6903d839c</id>
+  <Author>Admin</Author>
+  <Title>dgdgd</Title>
+  <InfoTestTaker>dgdg</InfoTestTaker>
+  <TestName />
+  <CreatedName />
+  <Description>dgg</Description>
+  <MaxPoint>8</MaxPoint>
+  <CountQuestion>3</CountQuestion>
+  <Percent>50</Percent>
+  <listTests>
+    <ListTest>
+      <Question>t1</Question>
+      <Answers>
+        <string>sag</string>
+        <string>asg</string>
+        <string>ssssss</string>
+        <string>saaaa</string>
+      </Answers>
+      <CorectAnswers>
+        <string>sag</string>
+        <string>asg</string>
+      </CorectAnswers>
+      <Photo>..\..\..\Source\Picture\PictureTest\download.....png</Photo>
+      <Point>3</Point>
+    </ListTest>
+    <ListTest>
+      <Question>t2</Question>
+      <Answers>
+        <string>sag</string>
+        <string>asg</string>
+        <string>asga</string>
+        <string>sag3</string>
+      </Answers>
+      <CorectAnswers>
+        <string>sag</string>
+        <string>asg</string>
+        <string>asga</string>
+      </CorectAnswers>
+      <Photo>..\..\..\Source\Picture\PictureTest\download..._1.png</Photo>
+      <Point>2</Point>
+    </ListTest>
+    <ListTest>
+      <Question>t3</Question>
+      <Answers>
+        <string>a1</string>
+        <string>a2</string>
+      </Answers>
+      <CorectAnswers>
+        <string>a1</string>
+        <string>a2</string>
+      </CorectAnswers>
+      <Point>3</Point>
+    </ListTest>
+  </listTests>
+</Test>
